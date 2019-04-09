@@ -26,7 +26,7 @@ TopBar.propTypes = {
 };
 
 /**
- * Top bar title sub-component.
+ * Top bars title sub-component.
  *
  * @param {Object} props
  * @returns {Object}
