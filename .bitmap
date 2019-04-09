@@ -273,23 +273,6 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "katona.test2/responsive@0.9.6": {
-        "files": [
-            {
-                "relativePath": "src/components/responsive.js",
-                "test": false,
-                "name": "responsive.js"
-            },
-            {
-                "relativePath": "test/components/responsive-spec.js",
-                "test": true,
-                "name": "responsive-spec.js"
-            }
-        ],
-        "mainFile": "src/components/responsive.js",
-        "origin": "AUTHORED",
-        "exported": true
-    },
     "katona.test2/reveal@0.9.6": {
         "files": [
             {
@@ -370,23 +353,6 @@
         "origin": "AUTHORED",
         "exported": true
     },
-    "katona.test2/top-bar@0.9.6": {
-        "files": [
-            {
-                "relativePath": "src/components/top-bar.js",
-                "test": false,
-                "name": "top-bar.js"
-            },
-            {
-                "relativePath": "test/components/top-bar-spec.js",
-                "test": true,
-                "name": "top-bar-spec.js"
-            }
-        ],
-        "mainFile": "src/components/top-bar.js",
-        "origin": "AUTHORED",
-        "exported": true
-    },
     "katona.test2/xy-grid@0.9.6": {
         "files": [
             {
@@ -425,6 +391,40 @@
             }
         ],
         "mainFile": "src/enums.js",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "katona.test2/top-bar@0.9.7": {
+        "files": [
+            {
+                "relativePath": "src/components/top-bar.js",
+                "test": false,
+                "name": "top-bar.js"
+            },
+            {
+                "relativePath": "test/components/top-bar-spec.js",
+                "test": true,
+                "name": "top-bar-spec.js"
+            }
+        ],
+        "mainFile": "src/components/top-bar.js",
+        "origin": "AUTHORED",
+        "exported": true
+    },
+    "katona.test2/responsive@0.9.7": {
+        "files": [
+            {
+                "relativePath": "src/components/responsive.js",
+                "test": false,
+                "name": "responsive.js"
+            },
+            {
+                "relativePath": "test/components/responsive-spec.js",
+                "test": true,
+                "name": "responsive-spec.js"
+            }
+        ],
+        "mainFile": "src/components/responsive.js",
         "origin": "AUTHORED",
         "exported": true
     },
